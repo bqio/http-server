@@ -1,0 +1,11 @@
+{
+  "name": "http-server",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Main HTTP server",
+  "author": "bqio",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1"
+  }
+}
